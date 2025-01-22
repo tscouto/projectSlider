@@ -4,10 +4,10 @@ Este projeto implementa um slider de imagens com controles para navegar entre os
 
 ## Funcionalidades
 
-- **Navegação Manual**: Botões "Voltar" e "Próxima" para controlar o slider.
-- **Mudança Automática**: O slider avança automaticamente a cada 4 segundos.
-- **Responsividade**: O slider se ajusta dinamicamente ao tamanho da tela, garantindo boa aparência em dispositivos móveis e desktops.
-- **Design Interativo**: Animações suaves de transição entre os slides.
+- 🔄 **Navegação Manual**: Botões "Voltar" e "Próxima" para controlar o slider.
+- ⏩ **Mudança Automática**: O slider avança automaticamente a cada 4 segundos.
+- 📱 **Responsividade**: O slider se ajusta dinamicamente ao tamanho da tela, garantindo boa aparência em dispositivos móveis e desktops.
+- 🎨 **Design Interativo**: Animações suaves de transição entre os slides.
 
 ## Tecnologias Utilizadas
 
